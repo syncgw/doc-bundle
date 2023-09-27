@@ -57,7 +57,7 @@ Protocoll bundle were used to handle the comuunication with your device.
 The included files enables support for [CalDav](http://en.wikipedia.org/wiki/CalDAV) and [CardDav](http://en.wikipedia.org/wiki/CardDAV) protocol. 
 
 ## [sync•gw activesync-bundle](../activesync-bundle/README.md) ##
-The included files  enables support for [MicroSoft ActiveSync](http://en.wikipedia.org/wiki/Exchange_ActiveSync). 
+The included files enables support for [MicroSoft ActiveSync](http://en.wikipedia.org/wiki/Exchange_ActiveSync). 
 
 ## [EXPERIMENTAL: sync•gw mapi-bundle](../mapi-bundle/README.md) ##
 If you want to connect your **[Outlook](https://en.wikipedia.org/wiki/Outlook)** installation to **sync•gw**,

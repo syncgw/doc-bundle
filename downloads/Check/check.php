@@ -40,10 +40,10 @@ $cgi = stripos($_SERVER['REQUEST_URI'], 'cgi');
 #----------------------------------------------------------------------------------------------------------------------------------------
 
 chk('PHP version');
-if (PHP_MAJOR_VERSION < 7 && PHP_MINOR_VERSION < 1)
+if (PHP_MAJOR_VERSION < 8 && PHP_MINOR_VERSION < 1)
 	err('Unsupported PHP version "'.phpversion().'"',
- 	 	'<strong>sync&bull;gw</strong> expects at least PHP7.1 - your installation is incompatible',
- 	 	'Update to at least PHP version "7.1"');
+ 	 	'<strong>sync&bull;gw</strong> expects at least PHP 8.1 - your installation is incompatible',
+ 	 	'Update to at least PHP version "8.1"');
 else
 	ok();
 
