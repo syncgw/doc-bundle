@@ -68,7 +68,7 @@ communication between **Outlook** and your **sync•gw** installation works fine
 currently the results were poor. Due to the very poor documentation provided by **MicroSoft**, I was not able
 to find out the meaning of many fields. 
 
-[[Go back](/README.md)]
+[[Go back](README.md)]
 [[System requirements](PreReqs.md)] 
 [[Available bundles](Bundles.md)] 
 [[List of all changes](Changes.md)] 

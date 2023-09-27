@@ -7,27 +7,23 @@
 **sync•gw** is the one and only fully portable server software available providing synchronization service between nearly any mobile device and your web server.
 
 # Client device #
-<details>
-<summary><h3>Why does my phone number does not arrive on client device?</h3></summary>
+<details><summary><h3>Why does my phone number does not arrive on client device?</h3></summary>
 <p>Some information may not be synchronized due to internal device limitations not covered by back end handler. In some back ends you may enter "abc" as telephone number. If you try to synchronize this piece of information to cell phone, telephone number will not be synchronized, because numbers strings are only allowed to contain the digits 0 to 9 and the special characters "+ ()#".</p>
 </details>
 
-<details>
-<summary><h3>I've attached a picture to my contact on server. Why does it not synchronize to client device?</h3></summary>
+<details><summary><h3>I've attached a picture to my contact on server. Why does it not synchronize to client device?</h3></summary>
 <p>All images are stored in common PNG graphic format in <strong>sync•gw</strong>. As soon as you connect your client device to <strong>sync•gw</strong> and this device is capable of receiving or sending images, the image is converted to the supported graphic format (the information about the supported graphics formats are exchanged during synchronization initialization).<br>
 During exchange of device information, some client devices raises the "Supporting pictures" flag, 
 but does include which graphic formats is supported. <strong>sync•gw</strong> assumes as default the <strong>JPEG</strong> graphic format. If that format is not supported by client device, picture may not been shown.</p>
 </details>
 
-<details>
-<summary><h3>My server do not accept my credentials. What can I do?</h3></summary>
+<details><summary><h3>My server do not accept my credentials. What can I do?</h3></summary>
 <p>If your server is configured to run as <strong>FAST-CGI</strong> then Apache do not provide your credentials automatically to PHP. Please goto to <a href="Downloads.md">download section</a> and install the file <code>.htaccess</code> in root directory of your internet server.</p>
 </details>
 
 # Client configuration #
 
-<details>
-<summary><h3>CardDAV: How do I have to configure my <em>Android device</em> for synchronizing?</h3></summary>
+<details><summary><h3>CardDAV: How do I have to configure my <em>Android device</em> for synchronizing?</h3></summary>
 <p>Please use the following Android CardDav description as starting point. This documentation should help you figuring out how to configure your device.<br>
 <ul><li>Select <a href="assets/webdav-1.png" target="_blank">CardDav-Sync</a></li>
 <li>Enter <a href="assets/carddav-1.png" target="_blank">URL, user id and password</a>. For more information about which URL to use, please check out our data store definitions</li>
@@ -36,8 +32,7 @@ but does include which graphic formats is supported. <strong>sync•gw</strong> 
 </ul></p>
 </details>
 
-<details>
-<summary><h3>CardDAV: How do I have to configure my iPhone device for synchronizing?</h3></summary>
+<details><summary><h3>CardDAV: How do I have to configure my iPhone device for synchronizing?</h3></summary>
 <p>Please use the following <em>iPhone CardDav</em> description as starting point. This documentation should help you figuring out how to configure your device.<br>
 <ul>
 <li>In <strong>Settings</strong> open <a href="assets/ip01.png" target="_blank">Accounts &amp; Passwords</a></li>
@@ -49,8 +44,7 @@ but does include which graphic formats is supported. <strong>sync•gw</strong> 
 </p>
 </details>
 
-<details>
-<summary><h3>ActiveSync: How can I configure my device for synchroniziation?</h3></summary>
+<details><summary><h3>ActiveSync: How can I configure my device for synchroniziation?</h3></summary>
 <p>Please use the this description for an <em>Android device</em> as starting point. This documentation should help you figuring out how to configure your device.<br>
 <ul>
 <li>Select <strong>Settings</strong> and scroll down to <a href="assets/pic01.png" target="_blank">Accounts</a></li>
@@ -60,7 +54,7 @@ but does include which graphic formats is supported. <strong>sync•gw</strong> 
 </ul></p>
 </details>
 
-[[Go back](/README.md)]
+[[Go back](README.md)]
 [[System requirements](PreReqs.md)] 
 [[Available bundles](Bundles.md)] 
 [[List of all changes](Changes.md)] 
