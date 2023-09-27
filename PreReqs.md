@@ -18,6 +18,13 @@
 * If you want to synchronize multi-byte language date, you need to enable PHP extension **[Multi byte extension](http://www.php.net/manual/en/mbstring.installation.php)**.
 * If you want to use a MySQL server database, you need to enable **[MySQLi](http://www.php.net/manual/en/mysqli.installation.php)** extension.
 
-You may download a small PHP script to check the system requirements from the avaibale [downloads](Downloads.md).
+You may download a small PHP script to check the system requirements from the available [downloads](Downloads.md).
 
-[Go back](./README.md/)
+[Go back](README.md)
+[[System requirements](PreReqs.md)] 
+[[Available bundles](Bundles.md)] 
+[[List of all changes](Changes.md)] 
+[[Additional Downloads](Downloads.md)] 
+[[Frequently asked questions](FAQ.md)] 
+[[Supported feature](Features.md)]
+

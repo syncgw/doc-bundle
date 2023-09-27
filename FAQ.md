@@ -60,4 +60,11 @@ but does include which graphic formats is supported. <strong>sync•gw</strong> 
 </ul></p>
 </details>
 
-[Go back](./README.md)
+[[Go back](/README.md)]
+[[System requirements](PreReqs.md)] 
+[[Available bundles](Bundles.md)] 
+[[List of all changes](Changes.md)] 
+[[Additional Downloads](Downloads.md)] 
+[[Frequently asked questions](FAQ.md)] 
+[[Supported feature](Features.md)]
+

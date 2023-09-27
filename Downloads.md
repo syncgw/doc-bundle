@@ -68,5 +68,10 @@ Description of **sync•gw** browser interface also available as [.docx file](do
 ## [Developer Guide](downloads/DeveloperGuide/DeveloperGuide.pdf) ##
 Application back end developers guide (also available as [.docx file](downloads/DeveloperGuide/DeveloperGuide.docx)). This gives you information about the [myApp](../myapp-bundle/) skeleton interface handler.
 
-[Go back](README.md)
-
+[[Go back](/README.md)]
+[[System requirements](PreReqs.md)] 
+[[Available bundles](Bundles.md)] 
+[[List of all changes](Changes.md)] 
+[[Additional Downloads](Downloads.md)] 
+[[Frequently asked questions](FAQ.md)] 
+[[Supported feature](Features.md)]
