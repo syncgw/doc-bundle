@@ -68,6 +68,18 @@ communication between **Outlook** and your **sync•gw** installation works fine
 currently the results were poor. Due to the very poor documentation provided by **MicroSoft**, I was not able
 to find out the meaning of many fields. 
 
+## EXPERIMENTAL: ROPS bundle for sync•gw ##
+If you want to connect your **[Outlook](https://en.wikipedia.org/wiki/Outlook)** installation to **sync•gw**,
+then you need **Remote Operations (ROP) List and Encoding** protocol.
+
+## EXPERIMENTAL: RPC bundle for sync•gw ##
+If you want to connect your **[Outlook](https://en.wikipedia.org/wiki/Outlook)** installation to **sync•gw**,
+then you need **Wire Format Protocol handler** protocol.
+
+## EXPERIMENTAL: ICS bundle for sync•gw ##
+If you want to connect your **[Outlook](https://en.wikipedia.org/wiki/Outlook)** installation to **sync•gw**,
+then you need **Bulk Data Transfer Protocolr** protocol.
+
 [[Go back](README.md)]
 [[System requirements](PreReqs.md)] 
 [[Available bundles](Bundles.md)] 
