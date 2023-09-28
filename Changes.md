@@ -1,6 +1,7 @@
-## Version 9.19.78 published on 2023-xx ##
+## Version 9.19.78 published on 2023-09-28 ##
 * Changed: Internationalization support dropped
-* Code modified t fully support composer
+* Changed: Code modified to fully support composer and AutoLoad
+* Changed: Some minor improvments in task handling
 
 ## Version 9.19.77, published on 2023-06-15 ##
 * Changed: Always provide <Complete> flag for tasks from Roundcube records
