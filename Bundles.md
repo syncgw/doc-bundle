@@ -53,10 +53,11 @@ If you require any another interface bundle for which you're need a handler not 
 The purpose of this interface handler is to communicate to an **IMAP** and a **SMTP** handler. It is an "on top" interface to all other data base handler. Currently this interface handler is in development and I hope to offer it as soon as possible. Please aware, this interface handler does not turn **sync•gw** into a full blown **Exchange server**. It does not support only **MicroSoft Exchange** protocol. But it is able to synchronize mails from your mail server to client devices. It is included in **Developer Edition** only.
 
 ## [sync•gw webdav-bundle](../webdav-bundle/README.md) ##
-Protocoll bundle were used to handle the comuunication with your device. 
+Protocoll bundle were used to handle the comunication with your device. 
 The included files enables support for [CalDav](http://en.wikipedia.org/wiki/CalDAV) and [CardDav](http://en.wikipedia.org/wiki/CardDAV) protocol. 
 
 ## [sync•gw activesync-bundle](../activesync-bundle/README.md) ##
+Protocoll bundle were used to handle the comunication with your device. 
 The included files enables support for [MicroSoft ActiveSync](http://en.wikipedia.org/wiki/Exchange_ActiveSync). 
 
 ## [EXPERIMENTAL: sync•gw mapi-bundle](../mapi-bundle/README.md) ##
