@@ -2,7 +2,12 @@
 	"name" : "syncgw/doc-bundle",
 	"description" : "sync•gw documentation bundle.",
 	"license": "LGPL-3.0-or-later",
-	"type" : "symfony-bundle",
+    "repositories" : [{
+            "type" : "composer",
+            "url" : "https://repo.packagist.org"
+    	}
+    ],
+	"type" : "syncgw-bundle",
 	"authors" : [{
 			"name" : "Florian Daeumling",
 			"homepage" : "https://github.com/toteph42"

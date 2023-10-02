@@ -26,4 +26,3 @@ This plugin is released under the [GNU General Public License v3.0](LICENSE).
 [[List of all changes](Changes.md)] 
 [[Additional Downloads](Downloads.md)] 
 [[Frequently asked questions](FAQ.md)] 
-[[Supported feature](Features.md)]

@@ -1,3 +1,7 @@
+## Version 9.19.80 published on ##
+* Changed: getInfo() processing
+* Fixed: some composer.json flaws 
+
 ## Version 9.19.78 published on 2023-09-28 ##
 * Changed: Internationalization support dropped
 * Changed: Code modified to fully support composer and AutoLoad
