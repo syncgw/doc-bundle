@@ -1,3 +1,6 @@
+## Version 9.19.81 published on ##
+* Changed: WebDAV re-enabled
+
 ## Version 9.19.80 published on ##
 * Changed: getInfo() processing
 * Fixed: some composer.json flaws 
