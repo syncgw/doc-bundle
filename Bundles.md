@@ -77,7 +77,7 @@ then you need **Remote Operations (ROP) List and Encoding** protocol.
 If you want to connect your **[Outlook](https://en.wikipedia.org/wiki/Outlook)** installation to **sync•gw**,
 then you need **Wire Format Protocol handler** protocol.
 
-## [EXPERIMENTAL: ICS bundle for sync•gw}(,,/ics-bundle/README.md) ##
+## [EXPERIMENTAL: ICS bundle for sync•gw](../ics-bundle/README.md) ##
 If you want to connect your **[Outlook](https://en.wikipedia.org/wiki/Outlook)** installation to **sync•gw**,
 then you need **Bulk Data Transfer Protocolr** protocol.
 
