@@ -1,7 +1,11 @@
-## Version 9.19.81 published on ##
+## Version 9.19.82 published on 2023-10-08 ##
+* Changed: BrowserInterface.pdf and DeveloperGuide.pdf
+* Fixed: some documentation typos
+
+## Version 9.19.81 published on 2023-10-02 ##
 * Changed: WebDAV re-enabled
 
-## Version 9.19.80 published on ##
+## Version 9.19.80 published on 2023-10-01 ##
 * Changed: getInfo() processing
 * Fixed: some composer.json flaws 
 
