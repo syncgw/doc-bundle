@@ -14,7 +14,7 @@ if (isset($_GET['CheckLock'])) {
 }
 ?><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
-<head><title><b>sync&bull;gw</b> test script</title></head>
+<head><title>sync&bull;gw test script</title></head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8"></meta>
 <body>
 <?php
@@ -30,7 +30,7 @@ if (isset($_GET['CheckLock'])) {
  *
  */
 
-echo '<pre>Version 9.06<br><br>';
+echo '<pre>Version 9.07<br><br>';
 
 #----------------------------------------------------------------------------------------------------------------------------------------
 
