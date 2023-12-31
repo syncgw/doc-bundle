@@ -9,8 +9,9 @@
     ],
 	"type" : "syncgw-bundle",
 	"authors" : [{
-			"name" : "Florian Daeumling",
-			"homepage" : "https://github.com/toteph42"
+			"name" : "Florian Däumling",
+			"homepage" : "https://github.com/toteph42",
+            "role" : "Developer"
 		}
 	],
 	"homepage": "https://github.com/syncgw/doc-bundle",

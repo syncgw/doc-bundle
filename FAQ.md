@@ -7,7 +7,7 @@
 **sync•gw** is the one and only fully portable server software available providing synchronization service between nearly any mobile device and your web server.
 
 # Client device #
-<details>
+<details> 
 <summary><strong>Why does my phone number does not arrive on client device?</strong></summary>
 <p>Some information may not be synchronized due to internal device limitations not covered by back end handler. In some back ends you may enter "abc" as telephone number. If you try to synchronize this piece of information to cell phone, telephone number will not be synchronized, because numbers strings are only allowed to contain the digits 0 to 9 and the special characters "+ ()#".</p>
 </details>
