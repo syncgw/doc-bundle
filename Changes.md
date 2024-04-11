@@ -1,3 +1,6 @@
+## Version 9.19.83 published on 2024-04-11 ##
+* Fixed: RoundCube Calendar exlusion dates for recurring events
+ 
 ## Version 9.19.82 published on 2023-10-08 ##
 * Changed: BrowserInterface.pdf and DeveloperGuide.pdf
 * Fixed: some documentation typos
