@@ -1,3 +1,10 @@
+## Version 9.19.84 published on 2024-04-12 ##
+* Fixed: Missing variable defined in core-bundle/lib/Log.php
+* Fixed: Missing interface handler in mysql-bundle/Admin.php
+* Fixed: Deleted file core-bunde/DBAdmin.php restored
+* Fixed: Some messages in core-bunde/Session.php removed
+* Fixed: Some calendar plugin bugs in roundcube-bundle/Calendar.php
+
 ## Version 9.19.83 published on 2024-04-11 ##
 * Fixed: RoundCube Calendar exlusion dates for recurring events
  
