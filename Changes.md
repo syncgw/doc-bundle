@@ -1,3 +1,7 @@
+## Version 9.19.85 published on 2024-04-15 ##
+* Changed: Many RounCube bundle message extended with user name
+* Fixed: ActiveSync <Reminder> always positive value
+
 ## Version 9.19.84 published on 2024-04-12 ##
 * Fixed: Missing variable defined in core-bundle/lib/Log.php
 * Fixed: Missing interface handler in mysql-bundle/Admin.php
