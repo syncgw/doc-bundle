@@ -1,3 +1,9 @@
+## Version 9.19.86 published on 2024-05-05 ##
+* Fixed: Bug in core--bundle\Lock.php when error message is not set properly
+* Fixed: SQL-Error message not shown in myswl-bundle/Handler.php:442 and 447
+* Fixed: Bug in loadSQL()
+* Fixed: Creation of unneccessary ajax files
+
 ## Version 9.19.85 published on 2024-04-15 ##
 * Changed: Many RounCube bundle message extended with user name
 * Fixed: ActiveSync <Reminder> always positive value
